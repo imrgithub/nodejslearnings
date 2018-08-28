@@ -1,0 +1,24 @@
+{
+  "name": "nodejsfiles",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "NodeTutorial.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imrgithub/nodejslearnings.git"
+  },
+  "author": "imrnodejs <mohammad.a.imran@capgemini.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imrgithub/nodejslearnings/issues"
+  },
+  "homepage": "https://github.com/imrgithub/nodejslearnings#readme"
+}
